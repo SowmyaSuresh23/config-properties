@@ -1,2 +1,0 @@
-id,filename,ident,name,type,frequency_khz,latitude_deg,longitude_deg,elevation_ft,iso_country,dme_frequency_khz,dme_channel,dme_latitude_deg,dme_longitude_deg,dme_elevation_ft,slaved_variation_deg,magnetic_variation_deg,usageType,power,associated_airport
-85050,Williams_Harbour_NDB_CA,1A,Williams Harbour,NDB,373,52.55889893,-55.78219986,70,US,,,,,,,-23.072,LO,MEDIUM,00A
